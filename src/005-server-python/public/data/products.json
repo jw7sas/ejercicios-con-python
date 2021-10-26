@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Aguacate Hass",
+        "description": "600 Gramos",
+        "price": 3100.0,
+        "image_url": "https://i.postimg.cc/76SxzKxv/0000380.png"
+    },
+    {
+        "title": "Ajo",
+        "description": "3 Unidades",
+        "price": 1450.0,
+        "image_url": "https://i.postimg.cc/tgqq63s7/0000975.png"
+    },
+    {
+        "title": "Banano ",
+        "description": "600 Gramos",
+        "price": 1900.0,
+        "image_url": "https://i.postimg.cc/yNL6xR23/0003284.png"
+    },
+    {
+        "title": "Cebolla Cabezona",
+        "description": "500 Gramos",
+        "price": 1050.0,
+        "image_url": "https://i.postimg.cc/hvbPkpw8/0000378.png"
+    },
+    {
+        "title": "Cebolla Cabezona",
+        "description": "500 Gramos",
+        "price": 1750.0,
+        "image_url": "https://i.postimg.cc/TPd0tvzD/0000376.png"
+    },
+    {
+        "title": "Durazno Nacional",
+        "description": "500 Gramos",
+        "price": 3000.0,
+        "image_url": "https://i.postimg.cc/nczfkcPx/0002609.png"
+    },
+    {
+        "title": "Espinaca Baby",
+        "description": "150 Gramos",
+        "price": 1650.0,
+        "image_url": "https://i.postimg.cc/jC0xxwYj/0003330.png"
+    },
+    {
+        "title": "Lechuga Verde Crespa",
+        "description": "1 Unidad",
+        "price": 1100.0,
+        "image_url": "https://i.postimg.cc/Y0WhJj6G/0001695.png"
+    },
+    {
+        "title": "Limón Tahití",
+        "description": "300 Gramos",
+        "price": 1850.0,
+        "image_url": "https://i.postimg.cc/pr9xWH9g/0002481.png"
+    },
+    {
+        "title": "Manzana Royal Gala",
+        "description": "1000 Gramos",
+        "price": 7700.0,
+        "image_url": "https://i.postimg.cc/6qGpMBVP/0000317.png"
+    },
+    {
+        "title": "Manzana Verde",
+        "description": "600 Gramos",
+        "price": 5550.0,
+        "image_url": "https://i.postimg.cc/BQWX6wGC/0001674.png"
+    },
+    {
+        "title": "Naranja Valencia",
+        "description": "1500 Gramos",
+        "price": 3000.0,
+        "image_url": "https://i.postimg.cc/63GHJtPm/0000631.png"
+    },
+    {
+        "title": "Papa R12",
+        "description": "2000 Gramos",
+        "price": 3900.0,
+        "image_url": "https://i.postimg.cc/3wnNRSJt/0000302.png"
+    },
+    {
+        "title": "Pepino Cohombro",
+        "description": "2 Unidades 650 Gramos",
+        "price": 2000.0,
+        "image_url": "https://i.postimg.cc/SxgBV21z/0003030.png"
+    },
+    {
+        "title": "Pera Verde",
+        "description": "1000 Gramos",
+        "price": 7850.0,
+        "image_url": "https://i.postimg.cc/k5Tnv2Ss/0000971.png"
+    },
+    {
+        "title": "Piña Oro Miel",
+        "description": "Unidad",
+        "price": 2950.0,
+        "image_url": "https://i.postimg.cc/D0LKW6KW/0002401.png"
+    },
+    {
+        "title": "Plátano ",
+        "description": "1000 Gramos",
+        "price": 2450.0,
+        "image_url": "https://i.postimg.cc/TPXgm4xG/0000277.png"
+    },
+    {
+        "title": "Tomate Chonto",
+        "description": "500 Gramos",
+        "price": 1800.0,
+        "image_url": "https://i.postimg.cc/VN3Tj16v/0000261.png"
+    },
+    {
+        "title": "Uva Red Globe",
+        "description": "500 Gramos",
+        "price": 5000.0,
+        "image_url": "https://i.postimg.cc/VkZF3c3R/0002147.png"
+    },
+    {
+        "title": "Zanahoria",
+        "description": "600 Gramos",
+        "price": 1550.0,
+        "image_url": "https://i.postimg.cc/d0F2yVP4/0001850.png"
+    }
+]
